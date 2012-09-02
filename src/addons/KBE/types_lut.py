@@ -121,7 +121,6 @@ _topoTypesB = [ TopAbs_VERTEX, TopAbs_EDGE, TopAbs_WIRE, TopAbs_FACE, TopAbs_SHE
                 TopAbs_COMPSOLID, TopAbs_COMPOUND, TopAbs_SHAPE ]
 
 
-
 _geom_types_a = ['line', 'circle', 'ellipse', 'hyperbola', 'parabola', 'beziercurve', 'bsplinecurve','othercurve']
 _geom_types_b = [GeomAbs_Line, GeomAbs_Circle, GeomAbs_Ellipse, GeomAbs_Hyperbola, GeomAbs_Parabola, GeomAbs_BezierCurve,\
                  GeomAbs_BSplineCurve, GeomAbs_OtherCurve ]
